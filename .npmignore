@@ -1,7 +1,4 @@
-assets/
 coverage/
 doc/
-src/
-test/
 .projectile
 circle.yml
