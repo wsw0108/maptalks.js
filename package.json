@@ -8,7 +8,7 @@
     "url": "https://github.com/MapTalks/maptalks.js.git"
   },
   "scripts": {
-    "prepublish": "gulp build",
+    "preinstall": "gulp build",
     "lint": "eslint src/**/*.js",
     "test": "gulp test --cov",
     "pretest": "npm run lint"
